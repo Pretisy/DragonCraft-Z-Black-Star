@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.pretisy.dragoncraft.z.black.star.mixin",
+	"package": "net.pretisy.dragoncraftzblackstar.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
 		"ExampleMixin"

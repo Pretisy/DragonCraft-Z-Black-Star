@@ -1,4 +1,4 @@
-package net.pretisy.dragoncraft.z.black.star.mixin;
+package net.pretisy.dragoncraftzblackstar.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

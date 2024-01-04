@@ -3,26 +3,23 @@
 	"id": "dragoncraft-z-black-star",
 	"version": "${version}",
 	"name": "DragonCraft Z: Black Star",
-	"description": "A Dragon Ball Z Minecraft Fabric Mod made by Pretisy.",
+	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Pretisy"
+		"Me!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "MIT",
+	"license": "CC0-1.0",
 	"icon": "assets/dragoncraft-z-black-star/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.pretisy.dragoncraft.z.black.star.DragonCraftZBlackStar"
-		],
-		"client": [
-			"net.pretisy.dragoncraft.z.black.star.DragonCraftZBlackStarClient."
+			"net.pretisy.dragoncraftzblackstar.DragonCraftZBlackStar"
 		],
 		"fabric-datagen": [
-			"net.pretisy.dragoncraft.z.black.star.DragonCraftZBlackStarDataGenerator"
+			"net.pretisy.dragoncraftzblackstar.DragonCraftZBlackStarDataGenerator"
 		]
 	},
 	"mixins": [
@@ -30,7 +27,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.15.3",
-		"minecraft": "~1.20.2",
+		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*"
 	},

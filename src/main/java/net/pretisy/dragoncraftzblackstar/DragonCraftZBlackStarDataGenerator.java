@@ -1,4 +1,4 @@
-package net.pretisy.dragoncraft.z.black.star;
+package net.pretisy.dragoncraftzblackstar;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataGenerator;
