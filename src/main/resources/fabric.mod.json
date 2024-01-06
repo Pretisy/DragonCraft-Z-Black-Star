@@ -3,7 +3,7 @@
 	"id": "dragoncraft-z-black-star",
 	"version": "${version}",
 	"name": "DragonCraft Z: Black Star",
-	"description": "DragonCraft Z: Black Star, a Dragon Ball Z Minecraft Fabric Mod made by Pretisy.",
+	"description": "DragonCraft Z: Black Star is a 1.20.1 Minecraft Fabric mod that brings Dragon Ball Z to Minecraft.",
 	"authors": [
 		"Pretisy"
 	],
@@ -21,6 +21,7 @@
 		"client": [
 			"net.pretisy.dragoncraftzblackstar.DragonCraftZBlackStarClient"
 		],
+
 		"fabric-datagen": [
 			"net.pretisy.dragoncraftzblackstar.DragonCraftZBlackStarDataGenerator"
 		]
