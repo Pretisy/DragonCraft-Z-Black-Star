@@ -2,6 +2,8 @@ package net.pretisy.dragoncraftzblackstar;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.pretisy.dragoncraftzblackstar.item.ModItemGroups;
+import net.pretisy.dragoncraftzblackstar.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -11,7 +13,7 @@ public class DragonCraftZBlackStar implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
-		LOGGER.info("Hello Fabric world!");
+		ModItemGroups.registerItemGroups();
+		ModItems.registerModItems();
 	}
 }
