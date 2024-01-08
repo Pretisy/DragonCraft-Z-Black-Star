@@ -4,6 +4,22 @@
   "item.dragoncraftzblackstar.greater_senzu_bean": "Greater Senzu Bean",
   "item.dragoncraftzblackstar.dark_senzu_bean": "Dark Senzu Bean",
 
-  "itemgroup.dragoncraftzblackstarTab": "DragonCraft Z: BlackStar"
+  "block.dragoncraftzblackstar.amber_block": "Amber Block",
+  "block.dragoncraftzblackstar.black_block": "Black Block",
+  "block.dragoncraftzblackstar.blue_block": "Blue Block",
+  "block.dragoncraftzblackstar.chartreuse_block": "Chartreuse Block",
+  "block.dragoncraftzblackstar.green_block": "Green Block",
+  "block.dragoncraftzblackstar.magenta_block": "Magenta Block",
+  "block.dragoncraftzblackstar.orange_block": "Orange Block",
+  "block.dragoncraftzblackstar.purple_block": "Purple Block",
+  "block.dragoncraftzblackstar.red_block": "Red Block",
+  "block.dragoncraftzblackstar.teal_block": "Teal Block",
+  "block.dragoncraftzblackstar.vermillion_block": "Vermillion Block",
+  "block.dragoncraftzblackstar.violet_block": "Violet Block",
+  "block.dragoncraftzblackstar.white_block": "White Block",
+  "block.dragoncraftzblackstar.yellow_block": "Yellow Block",
+
+
+  "itemgroup.dragoncraftzblackstartab": "DragonCraft Z: BlackStar"
 
 }

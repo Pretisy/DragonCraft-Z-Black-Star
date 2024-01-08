@@ -32,7 +32,7 @@ public class ModItems {
 
         DragonCraftZBlackStar.LOGGER.info("Registering Mod Items for "+DragonCraftZBlackStar.MOD_ID);
 
-        ItemGroupEvents.modifyEntriesEvent(ItemGroups.INGREDIENTS).register(ModItems::addItemsToIngrediantsItemGroup);
+        ItemGroupEvents.modifyEntriesEvent(ItemGroups.SEARCH).register(ModItems::addItemsToIngrediantsItemGroup);
 
     }
 
