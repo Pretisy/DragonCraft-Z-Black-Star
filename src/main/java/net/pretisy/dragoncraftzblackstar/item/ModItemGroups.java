@@ -34,7 +34,6 @@ public class ModItemGroups {
                         entries.add(ModBlocks.WHITE_BLOCK);
                         entries.add(ModBlocks.YELLOW_BLOCK);
 
-
                     }).build());
 
     public static void registerItemGroups() {

@@ -42,9 +42,6 @@ public class ModBlocks {
     public static final Block YELLOW_BLOCK = registerBlock("yellow_block",
             new Block(FabricBlockSettings.copy(Blocks.IRON_BLOCK)));
 
-
-
-
     private static Block registerBlock(String name, Block block) {
 
         registerBlockItem(name, block);
@@ -63,5 +60,4 @@ public class ModBlocks {
         DragonCraftZBlackStar.LOGGER.info("Registering ModBlocks for " + DragonCraftZBlackStar.MOD_ID);
 
     }
-
 }

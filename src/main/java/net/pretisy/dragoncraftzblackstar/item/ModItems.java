@@ -16,8 +16,6 @@ public class ModItems {
     public static final Item GREATER_SENZU_BEAN = registerItem("greater_senzu_bean", new Item(new FabricItemSettings()));
     public static final Item DARK_SENZU_BEAN = registerItem("dark_senzu_bean", new Item(new FabricItemSettings()));
 
-
-
     private static void addItemsToIngrediantsItemGroup(FabricItemGroupEntries entries) {
         entries.add(LESSER_SENZU_BEAN);
         entries.add(GREATER_SENZU_BEAN);
@@ -35,5 +33,4 @@ public class ModItems {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.SEARCH).register(ModItems::addItemsToIngrediantsItemGroup);
 
     }
-
 }
