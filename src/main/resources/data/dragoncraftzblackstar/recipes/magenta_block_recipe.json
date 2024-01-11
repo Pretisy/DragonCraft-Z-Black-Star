@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": ":misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:magenta_dye"
+    }
+  },
+  "result": {
+    "item": "dragoncraftzblackstar:magenta_block"
+  }
+}
