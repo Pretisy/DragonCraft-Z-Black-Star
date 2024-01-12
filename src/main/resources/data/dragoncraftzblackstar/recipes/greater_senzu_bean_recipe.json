@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": ":misc",
+  "pattern": [
+    "HSH",
+    "HEH",
+    "HSH"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "E": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "S": {
+      "item": "minecraft:scute"
+    }
+},
+  "result": {
+    "item": "dragoncraftzblackstar:greater_senzu_bean"
+  }
+}

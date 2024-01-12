@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": ":misc",
+  "pattern": [
+    "HSH",
+    "HGH",
+    "HSH"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    },
+    "S": {
+      "item": "minecraft:scute"
+    }
+},
+  "result": {
+    "item": "dragoncraftzblackstar:lesser_senzu_bean"
+  }
+}

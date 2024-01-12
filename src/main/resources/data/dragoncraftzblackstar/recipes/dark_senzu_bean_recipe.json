@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": ":misc",
+  "pattern": [
+    "HSH",
+    "HPH",
+    "HSH"
+  ],
+  "key": {
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "P": {
+      "item": "minecraft:poisonous_potato"
+    },
+    "S": {
+      "item": "minecraft:scute"
+    }
+},
+  "result": {
+    "item": "dragoncraftzblackstar:dark_senzu_bean"
+  }
+}
