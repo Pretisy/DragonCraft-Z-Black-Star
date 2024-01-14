@@ -12,6 +12,10 @@ Experience the healing power of Senzu Beans with three unique types: Lesser, Gre
 Which are Amber, Black, Blue, Chartreuse, Green, Magenta, Orange, Purple, Red, Teal, Vermillion, Violet, White, and Yellow! 
 Each of these blocks shares similar properties with the Block of Iron!
 
+- **Dragon Radar:** 
+Discover Dragon Balls seamlessly with this powerful tool that offers crucial information! 
+Save time by effortlessly finding your Dragon Balls, gaining a strategic advantage on your journey!
+
 ## Installation
 
 **Note:** 
