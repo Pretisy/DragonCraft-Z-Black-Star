@@ -19,6 +19,8 @@ public class ModItemGroups {
                         entries.add(ModItems.GREATER_SENZU_BEAN);
                         entries.add(ModItems.DARK_SENZU_BEAN);
 
+                        entries.add(ModItems.DRAGON_RADAR);
+
                         entries.add(ModBlocks.AMBER_BLOCK);
                         entries.add(ModBlocks.BLACK_BLOCK);
                         entries.add(ModBlocks.BLUE_BLOCK);

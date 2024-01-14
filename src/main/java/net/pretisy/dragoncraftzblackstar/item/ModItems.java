@@ -9,12 +9,15 @@ import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import net.pretisy.dragoncraftzblackstar.DragonCraftZBlackStar;
+import net.pretisy.dragoncraftzblackstar.item.custom.DragonRadarItem;
 
 public class ModItems {
 
     public static final Item LESSER_SENZU_BEAN = registerItem("lesser_senzu_bean", new Item(new FabricItemSettings()));
     public static final Item GREATER_SENZU_BEAN = registerItem("greater_senzu_bean", new Item(new FabricItemSettings()));
     public static final Item DARK_SENZU_BEAN = registerItem("dark_senzu_bean", new Item(new FabricItemSettings()));
+
+    public static final Item DRAGON_RADAR = registerItem("dragon_radar", new DragonRadarItem(new FabricItemSettings()));
 
     private static void addItemsToIngrediantsItemGroup(FabricItemGroupEntries entries) {
         entries.add(LESSER_SENZU_BEAN);
