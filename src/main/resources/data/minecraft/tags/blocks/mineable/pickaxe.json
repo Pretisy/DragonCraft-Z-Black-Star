@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "dragoncraftzblackstar:amber_block",
+    "dragoncraftzblackstar:black_block",
+    "dragoncraftzblackstar:blue_block",
+    "dragoncraftzblackstar:chartreuse_block",
+    "dragoncraftzblackstar:green_block",
+    "dragoncraftzblackstar:magenta_block",
+    "dragoncraftzblackstar:orange_block",
+    "dragoncraftzblackstar:purple_block",
+    "dragoncraftzblackstar:red_block",
+    "dragoncraftzblackstar:teal_block",
+    "dragoncraftzblackstar:vermillion_block",
+    "dragoncraftzblackstar:violet_block",
+    "dragoncraftzblackstar:white_block",
+    "dragoncraftzblackstar:yellow_block"
+  ]
+}
