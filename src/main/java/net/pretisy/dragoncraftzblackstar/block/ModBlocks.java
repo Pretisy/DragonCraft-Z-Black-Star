@@ -10,6 +10,7 @@ import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 import net.pretisy.dragoncraftzblackstar.DragonCraftZBlackStar;
+import net.pretisy.dragoncraftzblackstar.block.custom.DragonShrineBlock;
 
 public class ModBlocks {
 
@@ -41,6 +42,9 @@ public class ModBlocks {
             new Block(FabricBlockSettings.copy(Blocks.IRON_BLOCK)));
     public static final Block YELLOW_BLOCK = registerBlock("yellow_block",
             new Block(FabricBlockSettings.copy(Blocks.IRON_BLOCK)));
+
+    public static final Block DRAGON_SHRINE_BLOCK = registerBlock("dragon_shrine_block",
+            new DragonShrineBlock(FabricBlockSettings.copy(Blocks.OBSIDIAN)));
 
     private static Block registerBlock(String name, Block block) {
 
