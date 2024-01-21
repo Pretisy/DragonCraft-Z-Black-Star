@@ -1,9 +1,14 @@
 {
+
+
   "item.dragoncraftzblackstar.lesser_senzu_bean": "Lesser Senzu Bean",
   "item.dragoncraftzblackstar.greater_senzu_bean": "Greater Senzu Bean",
   "item.dragoncraftzblackstar.dark_senzu_bean": "Dark Senzu Bean",
+  "item.dragoncraftzblackstar.ultra_divine_water": "Ultra Divine Water",
+
 
   "item.dragoncraftzblackstar.dragon_radar": "Dragon Radar",
+
 
   "block.dragoncraftzblackstar.amber_block": "Amber Block",
   "block.dragoncraftzblackstar.black_block": "Black Block",
@@ -19,6 +24,7 @@
   "block.dragoncraftzblackstar.violet_block": "Violet Block",
   "block.dragoncraftzblackstar.white_block": "White Block",
   "block.dragoncraftzblackstar.yellow_block": "Yellow Block",
+
 
   "block.dragoncraftzblackstar.dragon_shrine_block": "Dragon Shrine Block",
 

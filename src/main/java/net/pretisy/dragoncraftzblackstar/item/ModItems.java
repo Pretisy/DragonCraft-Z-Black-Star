@@ -19,6 +19,8 @@ public class ModItems {
 
     public static final Item DRAGON_RADAR = registerItem("dragon_radar", new DragonRadarItem(new FabricItemSettings()));
 
+    public static final Item ULTRA_DIVINE_WATER = registerItem("ultra_divine_water", new Item(new FabricItemSettings().food(ModFoodComponents.ULTRA_DIVINE_WATER)));
+
     private static void addItemsToIngrediantsItemGroup(FabricItemGroupEntries entries) {
         entries.add(LESSER_SENZU_BEAN);
         entries.add(GREATER_SENZU_BEAN);

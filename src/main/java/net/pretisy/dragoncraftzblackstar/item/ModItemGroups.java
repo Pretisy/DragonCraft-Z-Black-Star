@@ -15,11 +15,19 @@ public class ModItemGroups {
             new Identifier(DragonCraftZBlackStar.MOD_ID, "dragoncraftzblackstartab"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.dragoncraftzblackstartab"))
                     .icon(() -> new ItemStack(ModItems.LESSER_SENZU_BEAN)).entries((displayContext, entries) -> {
+
+                        ///Consumables
+
                         entries.add(ModItems.LESSER_SENZU_BEAN);
                         entries.add(ModItems.GREATER_SENZU_BEAN);
                         entries.add(ModItems.DARK_SENZU_BEAN);
+                        entries.add(ModItems.ULTRA_DIVINE_WATER);
+
+                        //Items
 
                         entries.add(ModItems.DRAGON_RADAR);
+
+                        //Blocks
 
                         entries.add(ModBlocks.AMBER_BLOCK);
                         entries.add(ModBlocks.BLACK_BLOCK);
@@ -35,6 +43,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.VIOLET_BLOCK);
                         entries.add(ModBlocks.WHITE_BLOCK);
                         entries.add(ModBlocks.YELLOW_BLOCK);
+
+                        //Usable Blocks
 
                         entries.add(ModBlocks.DRAGON_SHRINE_BLOCK);
                     }).build());
