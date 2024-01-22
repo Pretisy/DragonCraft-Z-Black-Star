@@ -21,6 +21,8 @@ public class ModItems {
 
     public static final Item ULTRA_DIVINE_WATER = registerItem("ultra_divine_water", new Item(new FabricItemSettings().food(ModFoodComponents.ULTRA_DIVINE_WATER)));
 
+    public static final Item A_LA_PLANETAISE= registerItem("a_la_planetaise", new Item(new FabricItemSettings().food(ModFoodComponents.A_LA_PLANETAISE)));
+
     private static void addItemsToIngrediantsItemGroup(FabricItemGroupEntries entries) {
         entries.add(LESSER_SENZU_BEAN);
         entries.add(GREATER_SENZU_BEAN);

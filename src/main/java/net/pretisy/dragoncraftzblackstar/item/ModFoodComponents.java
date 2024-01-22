@@ -42,4 +42,14 @@ public class ModFoodComponents {
             .alwaysEdible()
             .snack()
             .build();
+
+    public static final FoodComponent A_LA_PLANETAISE = new FoodComponent.Builder()
+            .hunger(4)
+            .saturationModifier(4)
+            .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 400, 2), 1.0F)
+            .statusEffect(new StatusEffectInstance(StatusEffects.LUCK, 400, 5), 1.0F)
+            .alwaysEdible()
+            .snack()
+            .build();
+
 }
