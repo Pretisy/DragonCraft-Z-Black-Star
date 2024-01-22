@@ -23,6 +23,7 @@ public class ModItemGroups {
                         entries.add(ModItems.DARK_SENZU_BEAN);
                         entries.add(ModItems.ULTRA_DIVINE_WATER);
                         entries.add(ModItems.A_LA_PLANETAISE);
+                        entries.add(ModItems.CANDY);
 
                         //Items
 

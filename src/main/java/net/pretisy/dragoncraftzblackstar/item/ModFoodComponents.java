@@ -52,4 +52,12 @@ public class ModFoodComponents {
             .snack()
             .build();
 
+    public static final FoodComponent CANDY = new FoodComponent.Builder()
+            .hunger(1)
+            .saturationModifier(2)
+            .statusEffect(new StatusEffectInstance(StatusEffects.INSTANT_HEALTH, 1, 0), 1.0F)
+            .alwaysEdible()
+            .snack()
+            .build();
+
 }
