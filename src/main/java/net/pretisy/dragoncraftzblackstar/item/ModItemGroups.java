@@ -24,6 +24,7 @@ public class ModItemGroups {
                         entries.add(ModItems.ULTRA_DIVINE_WATER);
                         entries.add(ModItems.A_LA_PLANETAISE);
                         entries.add(ModItems.CANDY);
+                        entries.add(ModItems.PUDDING);
 
                         //Items
 

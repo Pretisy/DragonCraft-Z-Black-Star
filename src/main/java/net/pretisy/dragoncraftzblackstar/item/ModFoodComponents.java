@@ -60,4 +60,11 @@ public class ModFoodComponents {
             .snack()
             .build();
 
+    public static final FoodComponent PUDDING = new FoodComponent.Builder()
+            .hunger(2)
+            .saturationModifier(4)
+            .alwaysEdible()
+            .snack()
+            .build();
+
 }

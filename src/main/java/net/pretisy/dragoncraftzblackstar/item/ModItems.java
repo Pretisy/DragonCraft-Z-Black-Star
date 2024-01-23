@@ -25,6 +25,8 @@ public class ModItems {
 
     public static final Item CANDY = registerItem("candy", new Item(new FabricItemSettings().food(ModFoodComponents.CANDY)));
 
+    public static final Item PUDDING = registerItem("pudding", new Item(new FabricItemSettings().food(ModFoodComponents.PUDDING)));
+
     private static void addItemsToIngrediantsItemGroup(FabricItemGroupEntries entries) {
         entries.add(LESSER_SENZU_BEAN);
         entries.add(GREATER_SENZU_BEAN);
