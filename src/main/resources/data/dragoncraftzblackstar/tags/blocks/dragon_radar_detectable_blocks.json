@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:amethyst_cluster",
+    "#minecraft:diamond_ore",
+    "#minecraft:deepslate_diamond_ore",
+    "#dragoncraftzblackstar:earth_dragon_ball",
+    "#dragoncraftzblackstar:namekian_dragon_ball",
+    "#dragoncraftzblackstar:cerealian_dragon_ball",
+    "#dragoncraftzblackstar:dark_dragon_ball",
+    "#dragoncraftzblackstar:special_dragon_ball",
+    "#dragoncraftzblackstar:black_star_dragon_ball",
+    "#dragoncraftzblackstar:super_dragon_ball",
+    "#dragoncraftzblackstar:omnificence_crystal"
+  ]
+}
