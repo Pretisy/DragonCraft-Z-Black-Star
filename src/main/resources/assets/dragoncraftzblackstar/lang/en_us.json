@@ -29,5 +29,8 @@
 
   "block.dragoncraftzblackstar.dragon_shrine_block": "Dragon Shrine Block",
 
+  "tooltip.dragoncraftzblackstar.dragon_radar.tooltip": "Use me to search for Dragon Balls in a 50 block range!",
+  "tooltip.dragoncraftzblackstar.dragon_shrine.tooltip": "Store 7 Dragon Balls Inside To Summon Shenron!",
+
   "itemgroup.dragoncraftzblackstartab": "DragonCraft Z: BlackStar"
 }
