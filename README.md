@@ -7,6 +7,9 @@ DragonCraft Z: Black Star is a 1.20.1 Minecraft Fabric mod that brings Dragon Ba
 - **Senzu Beans Variants:** 
 Experience the healing power of Senzu Beans with three unique types: Lesser, Greater, & Dark, which will allow you to choose the extent of your recovery.
 
+- **More Consumables:** 
+Introducing new consumables such as Candy, Ultra Divine Water, A La Planetaise, & Pudding. These consumables bring a variety of effects to enhance gameplay.
+
 - **Colored Blocks:** 
 14 new vibrant solid-colored blocks!
 Which are Amber, Black, Blue, Chartreuse, Green, Magenta, Orange, Purple, Red, Teal, Vermillion, Violet, White, and Yellow! 
