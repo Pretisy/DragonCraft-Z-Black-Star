@@ -9,6 +9,7 @@ Experience the healing power of Senzu Beans with three unique types: Lesser, Gre
 
 - **More Consumables:** 
 Introducing new consumables such as Candy, Ultra Divine Water, A La Planetaise, & Pudding. These consumables bring a variety of effects to enhance gameplay.
+These effects includes Regeneration, Instant Health, Resistance, & even Poison!
 
 - **Colored Blocks:** 
 14 new vibrant solid-colored blocks!
