@@ -1,6 +1,6 @@
 # DragonCraft Z: Black Star 
 
-DragonCraft Z: Black Star is a 1.20.1 Minecraft Fabric mod that brings Dragon Ball Z to Minecraft.
+DragonCraft Z: Black Star is a 1.20.1 Minecraft Fabric mod that brings Dragon Ball Z to Minecraft with more to come!
 
 ## Features
 
