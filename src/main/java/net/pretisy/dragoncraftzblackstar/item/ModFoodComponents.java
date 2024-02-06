@@ -63,7 +63,12 @@ public class ModFoodComponents {
     public static final FoodComponent PUDDING = new FoodComponent.Builder()
             .hunger(2)
             .saturationModifier(4)
-            .alwaysEdible()
+            .snack()
+            .build();
+
+    public static final FoodComponent CHOCOLATE = new FoodComponent.Builder()
+            .hunger(2)
+            .saturationModifier(3)
             .snack()
             .build();
 

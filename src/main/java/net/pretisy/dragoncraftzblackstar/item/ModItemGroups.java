@@ -25,6 +25,7 @@ public class ModItemGroups {
                         entries.add(ModItems.A_LA_PLANETAISE);
                         entries.add(ModItems.CANDY);
                         entries.add(ModItems.PUDDING);
+                        entries.add(ModItems.CHOCOLATE);
 
                         //Items
 
