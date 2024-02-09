@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": ":misc",
+  "pattern": [
+    " S ",
+    " C ",
+    " M "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    }
+},
+  "result": {
+    "item": "dragoncraftzblackstar:chocolate"
+  }
+}
