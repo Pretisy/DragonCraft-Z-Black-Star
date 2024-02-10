@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": ":misc",
+  "pattern": [
+    " D ",
+    "CWC",
+    " CC"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dragon_breath"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "C": {
+      "item": "minecraft:white_concrete"
+    }
+},
+  "result": {
+    "item": "dragoncraftzblackstar:ultra_divine_water"
+  }
+}
