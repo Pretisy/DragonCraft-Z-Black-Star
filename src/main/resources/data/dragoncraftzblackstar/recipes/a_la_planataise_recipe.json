@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": ":misc",
+  "pattern": [
+    "GFB",
+    "PCP",
+    " P "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glow_berries"
+    },
+    "F": {
+      "item": "minecraft:cornflower"
+    },
+    "B": {
+      "item": "minecraft:sweet_berries"
+    },
+    "C": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "P": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "dragoncraftzblackstar:a_la_planetaise"
+  }
+}
