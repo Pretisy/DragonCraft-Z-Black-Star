@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": ":misc",
+  "pattern": [
+    "PEP",
+    "PMP",
+    "PCP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:glass_pane"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    },
+    "C": {
+      "item": "dragoncraftzblackstar:chocolate"
+    }
+  },
+  "result": {
+    "item": "dragoncraftzblackstar:pudding"
+  }
+}
