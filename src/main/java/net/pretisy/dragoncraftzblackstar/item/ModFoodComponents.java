@@ -39,13 +39,14 @@ public class ModFoodComponents {
             .statusEffect(new StatusEffectInstance(StatusEffects.POISON, 100), 1.0F)
             .statusEffect(new StatusEffectInstance(StatusEffects.STRENGTH, 400, 5), 1.0F)
             .statusEffect(new StatusEffectInstance(StatusEffects.RESISTANCE, 400, 5), 1.0F)
+            .statusEffect(new StatusEffectInstance(StatusEffects.HUNGER, 200, 10), 1.0F)
             .alwaysEdible()
             .snack()
             .build();
 
     public static final FoodComponent A_LA_PLANETAISE = new FoodComponent.Builder()
-            .hunger(4)
-            .saturationModifier(4)
+            .hunger(6)
+            .saturationModifier(6)
             .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 400, 2), 1.0F)
             .statusEffect(new StatusEffectInstance(StatusEffects.LUCK, 400, 5), 1.0F)
             .alwaysEdible()
@@ -53,22 +54,22 @@ public class ModFoodComponents {
             .build();
 
     public static final FoodComponent CANDY = new FoodComponent.Builder()
-            .hunger(1)
-            .saturationModifier(2)
+            .hunger(2)
+            .saturationModifier(3)
             .statusEffect(new StatusEffectInstance(StatusEffects.INSTANT_HEALTH, 1, 0), 1.0F)
             .alwaysEdible()
             .snack()
             .build();
 
     public static final FoodComponent PUDDING = new FoodComponent.Builder()
-            .hunger(2)
-            .saturationModifier(4)
+            .hunger(4)
+            .saturationModifier(6)
             .snack()
             .build();
 
     public static final FoodComponent CHOCOLATE = new FoodComponent.Builder()
             .hunger(2)
-            .saturationModifier(3)
+            .saturationModifier(2)
             .snack()
             .build();
 
