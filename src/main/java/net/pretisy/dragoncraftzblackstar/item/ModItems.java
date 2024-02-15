@@ -14,7 +14,9 @@ import net.pretisy.dragoncraftzblackstar.item.custom.DragonRadarItem;
 public class ModItems {
 
     public static final Item LESSER_SENZU_BEAN = registerItem("lesser_senzu_bean", new Item(new FabricItemSettings().food(ModFoodComponents.LESSER_SENZU_BEAN)));
+
     public static final Item GREATER_SENZU_BEAN = registerItem("greater_senzu_bean", new Item(new FabricItemSettings().food(ModFoodComponents.GREATER_SENZU_BEAN)));
+
     public static final Item DARK_SENZU_BEAN = registerItem("dark_senzu_bean", new Item(new FabricItemSettings().food(ModFoodComponents.DARK_SENZU_BEAN)));
 
     public static final Item DRAGON_RADAR = registerItem("dragon_radar", new DragonRadarItem(new FabricItemSettings()));
@@ -30,6 +32,8 @@ public class ModItems {
     public static final Item CHOCOLATE = registerItem("chocolate", new Item(new FabricItemSettings().food(ModFoodComponents.CHOCOLATE)));
 
     public static final Item ENSENJI = registerItem("ensenji", new Item(new FabricItemSettings().food(ModFoodComponents.ENSENJI)));
+
+    public static final Item PARADISE_HERB = registerItem("paradise_herb", new Item(new FabricItemSettings().food(ModFoodComponents.PARADISE_HERB)));
 
     private static void addItemsToIngrediantsItemGroup(FabricItemGroupEntries entries) {
         entries.add(LESSER_SENZU_BEAN);

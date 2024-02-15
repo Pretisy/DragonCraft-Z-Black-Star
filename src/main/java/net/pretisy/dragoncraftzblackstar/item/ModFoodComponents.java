@@ -77,6 +77,15 @@ public class ModFoodComponents {
             .hunger(20)
             .saturationModifier(20)
             .statusEffect(new StatusEffectInstance(StatusEffects.INSTANT_HEALTH, 1, 10), 1.0F)
+            .alwaysEdible()
+            .snack()
+            .build();
+
+    public static final FoodComponent PARADISE_HERB = new FoodComponent.Builder()
+            .hunger(1)
+            .saturationModifier(1)
+            .statusEffect(new StatusEffectInstance(StatusEffects.INSTANT_HEALTH, 1, 10), 1.0F)
+            .alwaysEdible()
             .snack()
             .build();
 
