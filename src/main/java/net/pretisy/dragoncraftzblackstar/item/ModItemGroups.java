@@ -28,6 +28,7 @@ public class ModItemGroups {
                         entries.add(ModItems.CHOCOLATE);
                         entries.add(ModItems.ENSENJI);
                         entries.add(ModItems.PARADISE_HERB);
+                        entries.add(ModItems.SLEEPY_GRASS);
 
                         //Items
 

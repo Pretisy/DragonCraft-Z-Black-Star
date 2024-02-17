@@ -89,4 +89,12 @@ public class ModFoodComponents {
             .snack()
             .build();
 
+    public static final FoodComponent SLEEPY_GRASS = new FoodComponent.Builder()
+            .hunger(1)
+            .saturationModifier(1)
+            .statusEffect(new StatusEffectInstance(StatusEffects.DARKNESS, 1000, 10, false, true), 1.0F)
+            .alwaysEdible()
+            .snack()
+            .build();
+
 }
