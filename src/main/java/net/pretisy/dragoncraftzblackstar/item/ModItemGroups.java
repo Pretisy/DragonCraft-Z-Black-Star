@@ -30,6 +30,7 @@ public class ModItemGroups {
                         entries.add(ModItems.PARADISE_HERB);
                         entries.add(ModItems.SLEEPY_GRASS);
                         entries.add(ModItems.FRUIT_OF_THE_TREE_OF_MIGHT);
+                        entries.add(ModItems.PP_CANDY);
 
                         //Items
 

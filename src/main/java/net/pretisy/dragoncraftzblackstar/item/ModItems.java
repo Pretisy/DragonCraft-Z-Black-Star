@@ -39,6 +39,8 @@ public class ModItems {
 
     public static final Item FRUIT_OF_THE_TREE_OF_MIGHT = registerItem("fruit_of_the_tree_of_might", new Item(new FabricItemSettings().food(ModFoodComponents.FRUIT_OF_THE_TREE_OF_MIGHT)));
 
+    public static final Item PP_CANDY = registerItem("pp_candy", new Item(new FabricItemSettings().food(ModFoodComponents.PP_CANDY)));
+
     private static void addItemsToIngrediantsItemGroup(FabricItemGroupEntries entries) {
         entries.add(LESSER_SENZU_BEAN);
         entries.add(GREATER_SENZU_BEAN);
