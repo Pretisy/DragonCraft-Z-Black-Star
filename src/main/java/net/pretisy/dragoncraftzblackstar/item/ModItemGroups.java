@@ -29,6 +29,7 @@ public class ModItemGroups {
                         entries.add(ModItems.ENSENJI);
                         entries.add(ModItems.PARADISE_HERB);
                         entries.add(ModItems.SLEEPY_GRASS);
+                        entries.add(ModItems.FRUIT_OF_THE_TREE_OF_MIGHT);
 
                         //Items
 

@@ -37,6 +37,8 @@ public class ModItems {
 
     public static final Item SLEEPY_GRASS = registerItem("sleepy_grass", new Item(new FabricItemSettings().food(ModFoodComponents.SLEEPY_GRASS)));
 
+    public static final Item FRUIT_OF_THE_TREE_OF_MIGHT = registerItem("fruit_of_the_tree_of_might", new Item(new FabricItemSettings().food(ModFoodComponents.FRUIT_OF_THE_TREE_OF_MIGHT)));
+
     private static void addItemsToIngrediantsItemGroup(FabricItemGroupEntries entries) {
         entries.add(LESSER_SENZU_BEAN);
         entries.add(GREATER_SENZU_BEAN);

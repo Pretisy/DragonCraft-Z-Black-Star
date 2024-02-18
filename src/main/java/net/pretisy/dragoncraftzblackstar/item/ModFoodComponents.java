@@ -97,4 +97,11 @@ public class ModFoodComponents {
             .snack()
             .build();
 
+    public static final FoodComponent FRUIT_OF_THE_TREE_OF_MIGHT = new FoodComponent.Builder()
+            .hunger(5)
+            .saturationModifier(10)
+            .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 200, 3), 1.0f)
+            .statusEffect(new StatusEffectInstance(StatusEffects.RESISTANCE, 3000, 3), 1.0f)
+            .alwaysEdible()
+            .build();
 }
