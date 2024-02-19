@@ -53,10 +53,11 @@ public class ModItems {
         return Registry.register(Registries.ITEM, new Identifier(DragonCraftZBlackStar.MOD_ID, name), item);
     }
 
-    public static void registerModItems(){
+    public static void registerModItems() {
 
-        DragonCraftZBlackStar.LOGGER.info("Registering Mod Items for "+DragonCraftZBlackStar.MOD_ID);
+        DragonCraftZBlackStar.LOGGER.info("Registering Mod Items for " + DragonCraftZBlackStar.MOD_ID);
 
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.SEARCH).register(ModItems::addItemsToIngrediantsItemGroup);
 
     }
+}
