@@ -39,6 +39,8 @@ public class ModItems {
 
     public static final Item FRUIT_OF_THE_TREE_OF_MIGHT = registerItem("fruit_of_the_tree_of_might", new Item(new FabricItemSettings().food(ModFoodComponents.FRUIT_OF_THE_TREE_OF_MIGHT)));
 
+    public static final Item DEMON_REALM_ENHANCED_FRUIT_OF_THE_TREE_OF_MIGHT = registerItem("demon_realm_enhanced_fruit_of_the_tree_of_might_demon_realm", new Item(new FabricItemSettings().food(ModFoodComponents.DEMON_REALM_ENHANCED_FRUIT_OF_THE_TREE_OF_MIGHT)));
+
     public static final Item PP_CANDY = registerItem("pp_candy", new Item(new FabricItemSettings().food(ModFoodComponents.PP_CANDY)));
 
     private static void addItemsToIngrediantsItemGroup(FabricItemGroupEntries entries) {
@@ -58,4 +60,3 @@ public class ModItems {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.SEARCH).register(ModItems::addItemsToIngrediantsItemGroup);
 
     }
-}

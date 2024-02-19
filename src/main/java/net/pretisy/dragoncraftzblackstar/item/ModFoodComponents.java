@@ -105,6 +105,14 @@ public class ModFoodComponents {
             .alwaysEdible()
             .build();
 
+    public static final FoodComponent DEMON_REALM_ENHANCED_FRUIT_OF_THE_TREE_OF_MIGHT = new FoodComponent.Builder()
+            .hunger(5)
+            .saturationModifier(10)
+            .statusEffect(new StatusEffectInstance(StatusEffects.POISON, 200, 4), 1.0F)
+            .statusEffect(new StatusEffectInstance(StatusEffects.INSTANT_DAMAGE, 1, 5), 1.0F)
+            .alwaysEdible()
+            .build();
+
     public static final FoodComponent PP_CANDY = new FoodComponent.Builder()
             .hunger(0)
             .saturationModifier(0)
